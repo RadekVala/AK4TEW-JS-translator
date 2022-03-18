@@ -1,2 +1,1 @@
-# AK4TEW-JS-translator
-Created with CodeSandbox
+# 2019-TWW-translator-app-skeleton
